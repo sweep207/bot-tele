@@ -4,7 +4,7 @@ import telebot
 import pkgutil
 import importlib
 
-TELEGRAM_TOKEN = os.getenv("TOKEN")
+TELEGRAM_TOKEN = os.getenv("BOT_TOKEN")
 
 bot = telebot.TeleBot(
     TELEGRAM_TOKEN,
