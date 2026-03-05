@@ -19,8 +19,9 @@ caption = """ ‎‧₊˚✧ <b>Tiện ích</b> ✧˚₊‧
 <blockquote expandable>✧═════• ༺༻ •═════✧
    • /sms: spam sms 👌
    • /smsvip: spam siêu vip🚀
-   • /call: gọi vip
+   • /call: gọi vip ⚡️
 ✧═════• ༺༻ •═════✧
+</blockquote>
 
  ‎‧₊˚✧ <b>Random ảnh/video</b> ✧˚₊‧
 <blockquote expandable>✧═════• ༺༻ •═════✧
