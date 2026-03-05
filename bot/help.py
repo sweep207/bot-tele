@@ -15,6 +15,13 @@ caption = """ ‎‧₊˚✧ <b>Tiện ích</b> ✧˚₊‧
 ├ /in4: Thông tin người dùng Tele 👾
 ‎└───────────────⭓</blockquote>
 
+‎‧₊˚✧ <b>Tiện ích</b> ✧˚₊‧
+<blockquote expandable>✧═════• ༺༻ •═════✧
+   • /sms: spam sms 👌
+   • /smsvip: spam siêu vip🚀
+   • /call: gọi vip
+✧═════• ༺༻ •═════✧
+
  ‎‧₊˚✧ <b>Random ảnh/video</b> ✧˚₊‧
 <blockquote expandable>✧═════• ༺༻ •═════✧
    • /pussy: 🔞
