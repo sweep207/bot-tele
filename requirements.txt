@@ -1,0 +1,14 @@
+bs4
+pillow
+telebot
+requests
+
+yt_dlp
+colorama
+
+
+pystyle
+pytz
+
+Flask
+gunicorn
